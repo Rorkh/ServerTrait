@@ -1,0 +1,19 @@
+{
+    "name": "ren/server-trait",
+    "description": "Traits that implements server interfaces in one line. Cool.",
+    "type": "library",
+    "require": {
+        "react/socket": "^1.13"
+    },
+    "autoload": {
+        "psr-4": {
+            "Ren\\ServerTrait\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Rorkh",
+            "email": "78957156+Rorkh@users.noreply.github.com"
+        }
+    ]
+}
