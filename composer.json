@@ -1,6 +1,7 @@
 {
     "name": "ren/server-trait",
-    "description": "Traits that implements server interfaces in one line. Cool.",
+    "description": "Traits that implements server interfaces in one line",
+    "license": "MIT",
     "type": "library",
     "require": {
         "react/socket": "^1.13"
