@@ -3,6 +3,7 @@
     "description": "Traits that implements server interfaces in one line",
     "license": "MIT",
     "type": "library",
+    "minimum-stability": "dev",
     "require": {
         "react/socket": "^1.13"
     },
